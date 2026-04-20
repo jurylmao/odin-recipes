@@ -4,7 +4,7 @@
     margin: 0px;
     padding: 0px;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
-    text-decoration: none;
+ 
 }
 
 title {
@@ -22,6 +22,14 @@ h2 {
 h3 {
     margin: 0 20px;
     margin-top: 20px;
+}
+
+ol {
+    margin: 10px
+}
+
+li {
+    margin: 5px 25px
 }
 
 .link {
