@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+title {
+    visibility: hidden;
+}
+
+body {
+    padding: 80px;
+}
+
+h2 {
+    margin: 20px 0;
+}
+
+h3 {
+    margin: 0 20px;
+    margin-top: 20px;
+}
+
+.link {
+    margin: 20px 40px;
+    width: fit-content;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 6px;
+    font-size: 16px;
+}
